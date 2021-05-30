@@ -1,1 +1,1 @@
-# study_x86_os_implement
+# study_x86_os
